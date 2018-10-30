@@ -12,9 +12,15 @@
   "license": "ISC",
   "dependencies": {
     "@types/express": "^4.16.0",
+    "@types/lodash": "^4.14.117",
+    "@types/node": "^10.12.1",
     "@types/socket.io": "^1.4.38",
+    "@types/valid-url": "^1.0.2",
     "express": "^4.16.4",
+    "lodash": "^4.17.11",
     "moment": "^2.22.2",
-    "socket.io": "^2.1.1"
+    "open-graph-scraper": "^3.5.1",
+    "socket.io": "^2.1.1",
+    "valid-url": "^1.0.9"
   }
 }
